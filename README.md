@@ -3,7 +3,7 @@
 H﻿i, my name's Rik and I love cyber security! 🦾
 I﻿'ve been pursuing a career in infosec since completing CAPSLOCK's intensive cyber security bootcamp in 2021.
 
-📫 Have a peek at my CV, [Website](rikdeakin.com) or LinkedIn.
+📫 Have a peek at my CV, [Website](http://rikdeakin.com) or LinkedIn.
 🌱 I’m currently learning Javascript, Google Cloud, and Kubernetes.
 🤖 Here are my certifications:
 
