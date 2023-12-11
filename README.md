@@ -1,6 +1,7 @@
 ### 👋
 
 H﻿i, my name's Rik and I love cyber security! 🦾
+
 I﻿'ve been pursuing a career in infosec since completing CAPSLOCK's intensive cyber security bootcamp in 2021.
 
 🔗 Have a peek at my [CV](https://go.rikdeakin.uk/RDCV), [Website](http://rikdeakin.com) or [LinkedIn](https://go.rikdeakin.uk/RDin).
