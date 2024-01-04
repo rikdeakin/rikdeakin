@@ -19,8 +19,8 @@ I﻿'ve been pursuing a career in infosec since completing CAPSLOCK's intensive 
 
 <p align="left">Connect with me:</p>
 <p align="left">
-<a href="https://go.rikdeakin.uk/RDin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikdeakin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rikdeakin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rikdeakin/" height="30" width="40" /></a>
+<a href="https://go.rikdeakin.uk/RDin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://go.rikdeakin.uk/RDin" height="30" width="40" /></a>
+<a href="https://go.rikdeakin.uk/leet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://go.rikdeakin.uk/leet" height="30" width="40" /></a>
 </p>
 
 <p align="left">Languages and Tools:</p>
